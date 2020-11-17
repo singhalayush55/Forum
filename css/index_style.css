@@ -1,0 +1,21 @@
+.conn{
+    margin-top: 0px;
+    padding-top: 20px;
+    margin-bottom: 0px;
+    padding-bottom: 20px;
+    height: 800px;
+}
+
+.editor{
+    padding-top: 50px;
+    padding-bottom: 80px;
+    text-align: center;
+    background-color: rgba(222, 184, 135, 0.562);
+    
+}
+
+.btt{
+    margin: auto;
+    width: 60%;
+    text-align: center;
+}
